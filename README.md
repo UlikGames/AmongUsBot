@@ -79,6 +79,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](https:
 
 ## 🎫 Additional Comments
 Have any questions about the bot, errors and more join the [support server](https://discord.gg/pqyVkQB)! <br>
-Too hard for you? Just invite my bot, online 24/7 for more information [click here](https://bit.ly/zexdiscordbot)!
+Too hard for you? Just invite my bot, online 24/7 for more information [click here](https://bit.ly/3uvveBs)!
 
 ©[UlikGames](https://github.com/UlikGames)
