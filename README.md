@@ -19,8 +19,7 @@
 
 + [Setting up the bot](https://github.com/reconlx/amongus-discord-bot/blob/main/README.md#-setting-up-the-bot)
 + [Commands](https://github.com/reconlx/amongus-discord-bot/blob/main/README.md#-commands)
-+ [License](https://github.com/reconlx/amongus-discord-bot/blob/main/LICENCE)
-+ Follow my [github](https://github.com/reconlx) for more cool content
++ Follow my [github](https://github.com/UlikGames) for more cool content
 
 ## 🛠 Setting up the bot 
 
