@@ -17,7 +17,7 @@ module.exports = {
           })
           message.channel.send(new MessageEmbed()
             .setTitle('AmongUs Setup Completed')
-              .setDescription('Command List -> https://github.com/UlikGames/AmongUsBot/blob/main/README.md#-commands').setColor('GREEN')
+              .setDescription('Command List -> https://github.com/UlikGames/AmongUsBot').setColor('GREEN')
           )
         } else {
             message.channel.send('` Among-Us Role ` has already been created!')
