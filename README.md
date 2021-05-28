@@ -17,8 +17,8 @@
 
 ## 📝 Table of Contents 
 
-+ [Setting up the bot](https://github.com/UlikGames/AmoungUsBot/blob/main/README.md#-setting-up-the-bot)
-+ [Commands](https://github.com/UlikGames/AmoungUsBot/blob/main/README.md#-commands)
++ [Setting up the bot](https://github.com/UlikGames/AmongUsBot/blob/main/README.md#-setting-up-the-bot)
++ [Commands](https://github.com/UlikGames/AmongUsBot/blob/main/README.md#-commands)
 + [License](https://github.com/UlikGames/AmongUsBot/blob/main/LICENSE)
 + Follow my [github](https://github.com/UlikGames) for more cool content
 
